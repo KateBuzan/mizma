@@ -1,0 +1,21 @@
+@keyframes form-animate-input {
+   50% {
+      transform: translateX(120px);
+   }
+
+100% {
+   transform: translateX(0);
+}
+
+}
+
+@keyframes form-animate-button {
+   50% {
+      transform: translateX(-120px);
+   }
+
+100% {
+   transform: translateX(0);
+}
+
+}
